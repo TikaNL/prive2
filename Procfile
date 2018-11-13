@@ -1,1 +1,1 @@
-worker python bot.py
+worker python prive2.py
